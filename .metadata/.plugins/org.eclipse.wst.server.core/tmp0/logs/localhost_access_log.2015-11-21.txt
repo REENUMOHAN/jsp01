@@ -3,3 +3,6 @@
 127.0.0.1 - - [21/Nov/2015:10:44:08 -0600] "GET /FirstJSP/NewFile.html HTTP/1.1" 200 153
 127.0.0.1 - - [21/Nov/2015:10:44:09 -0600] "GET /favicon.ico HTTP/1.1" 404 1016
 127.0.0.1 - - [21/Nov/2015:10:44:09 -0600] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [21/Nov/2015:10:58:43 -0600] "GET /FirstJSP/NewFile.jsp HTTP/1.1" 200 316
+127.0.0.1 - - [21/Nov/2015:11:00:12 -0600] "GET /FirstJSP/NewFile.jsp HTTP/1.1" 200 316
+127.0.0.1 - - [21/Nov/2015:11:00:16 -0600] "GET /FirstJSP/NewFile.jsp HTTP/1.1" 200 316
